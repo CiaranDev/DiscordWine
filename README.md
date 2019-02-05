@@ -6,7 +6,7 @@ Just a basic colour editor with a watermark and some other little things, nothin
 Installation: Just drag and drop into AppData\Roaming\BetterDiscord\themes then activate it in the settings panel.
 
 Preview:
-[img]https://i.imgur.com/LeqLWv5.png[/img]
+https://i.imgur.com/LeqLWv5.png
 
 My Discord:
 Ciaran#9972
